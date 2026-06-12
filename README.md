@@ -63,10 +63,6 @@ This project is a Streamlit-based application that generates a compelling sales 
 - Make sure to comply with LinkedIn's terms of service when using this script.
 - You may need to adjust the sleep times based on your internet connection speed for accurate processing.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request with your changes.
